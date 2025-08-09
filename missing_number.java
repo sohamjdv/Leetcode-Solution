@@ -1,4 +1,4 @@
-class Solution {
+class Solutionm {
     public int missingNumber(int[] nums) {
         int n=nums.length;
         Arrays.sort(nums);
